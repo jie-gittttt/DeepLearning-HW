@@ -1,5 +1,5 @@
 # DeepLearning-HW
-2026春 同济深度学习
+2026春 TJ深度学习
 
 课程：https://nndl.github.io/
 
